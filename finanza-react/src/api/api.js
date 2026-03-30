@@ -1,9 +1,5 @@
 import axios from "axios";
 
-// const API = 
-// axios.create({
-//   baseURL: "http://localhost:1337/api",
-// });
 
 const API = axios.create({
    baseURL: "https://sparkling-connection-41d235254c.strapiapp.com/api",

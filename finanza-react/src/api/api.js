@@ -25,3 +25,4 @@ export const getFooter = () =>
 export const createContact = (data) =>
   API.post("/contacts", { data });
 
+export{API,BASE_URL}
